@@ -1,0 +1,118 @@
+{
+  "post": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "profile_picture": "http://localhost:3020/assets/profile.jpg",
+      "image_url": "http://localhost:3020/assets/post.jpg",
+      "caption": "Loving the view! 🌄",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "jane_doe",
+          "text": "So beautiful!"
+        },
+        {
+          "user": "alex123",
+          "text": "Wow!"
+        }
+      ],
+      "timestamp": "2025-04-18T14:30:00Z"
+    },
+    {
+      "id": "2",
+      "username": "sarah_lee",
+      "profile_picture": "http://localhost:3020/assets/profile2.jpg",
+      "image_url": "http://localhost:3020/assets/post2.jpg",
+      "caption": "My new puppy 🐶💕",
+      "likes": 250,
+      "comments": [],
+      "timestamp": "2025-04-18T15:00:00Z"
+    },
+    {
+      "id": "3",
+      "username": "saroo",
+      "profile_picture": "http://localhost:3020/assets/profile3.jpg",
+      "image_url": "http://localhost:3020/assets/post3.jpg",
+      "caption": "My new car💕",
+      "likes": 250,
+      "comments": [],
+      "timestamp": "2025-04-18T16:00:00Z"
+    },
+    {
+      "id": "4",
+      "username": "gamer",
+      "profile_picture": "http://localhost:3020/assets/profile3.jpg  ",
+      "image_url": "http://localhost:3020/assets/game.jpg",
+      "caption": "I complete my game ",
+      "likes": 10,
+      "comments": []
+    }
+  ],
+  "profile": [
+    {
+      "id": "1",
+      "username": "saroo_official",
+      "profile_picture": "http://localhost:3020/assets/profile3.jpg"
+    }
+  ],
+  "suggession": [
+    {
+      "id": "1",
+      "username": "sali_",
+      "profile_picture": "http://localhost:3020/assets/profile.jpg"
+    },
+    {
+      "id": "2",
+      "username": "shree_sk",
+      "profile_picture": "http://localhost:3020/assets/profile2.jpg"
+    },
+    {
+      "id": "3",
+      "username": "_aj_.",
+      "profile_picture": "http://localhost:3020/assets/profile3.jpg"
+    },
+    {
+      "id": "4",
+      "username": "_riya_20.",
+      "profile_picture": "http://localhost:3020/assets/profile2.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "profile_picture": "http://localhost:3020/assets/profile.jpg",
+      "image_url": "http://localhost:3020/assets/story.jpg"
+    },
+    {
+      "id": "2",
+      "username": "sarah_lee",
+      "profile_picture": "http://localhost:3020/assets/profile2.jpg",
+      "image_url": "http://localhost:3020/assets/story2.jpg"
+    },
+    {
+      "id": "3",
+      "username": "saroo_official.",
+      "profile_picture": "http://localhost:3020/assets/profile3.jpg",
+      "image_url": "http://localhost:3020/assets/story3.webp"
+    }
+  ],
+  "followers": [
+    {
+      "id": "101",
+      "username": "john_doe",
+      "profile_picture": "http://localhost:3020/assets/profile.jpg"
+    },
+    {
+      "id": "102",
+      "username": "sarah_lee",
+      "profile_picture": "http://localhost:3020/assets/profile2.jpg"
+    },
+    {
+      "id": "103",
+      "username": "_saroo_official",
+      "profile_picture": "http://localhost:3020/assets/profile3.jpg"
+    }
+  ]
+}
