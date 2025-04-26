@@ -1,3 +1,4 @@
+import React from 'react';
 import Feed from "./component/Feed"
 import Sidebar from "./component/sidebar"
 import Suggession from "./component/Suggession"
